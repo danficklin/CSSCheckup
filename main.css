@@ -1,0 +1,62 @@
+.wrapper {
+    margin: 8px;
+}
+
+body {
+    color: white;
+    background-color: grey;
+    background-image: url("./assets/rocks.jpg");
+    background-size: cover;
+    text-shadow: 0 0 10px black;
+}
+
+
+.rocktalk p {
+    background-color: rgba(44, 50, 56, 0.3); 
+    background-position: center; 
+    background-size: 50% 10%; 
+    color: whitesmoke;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 150%;
+    text-align: left;
+    text-indent: 40px;
+    text-shadow: 0 0 10px blue;
+}
+
+.rocktalk ol {
+    background-color: whitesmoke; 
+    background-position: center; 
+    background-size: 50% 10%; 
+    color: black;
+    font-size: x-large;
+    text-align: left;
+    text-shadow: 0 0 20px whitesmoke;
+}
+
+.rocktalk img {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+#caption {
+    font-size: small;
+    text-align: center;
+    text-shadow: 0 0 10px red;
+}
+
+
+.border {
+    margin: 5px;
+    padding: px;
+    border-style: dotted;
+    border-color: blue;
+}
+
+.center {
+    text-align: center;
+}
+
+footer {
+    color: white; 
+    background-color: rgba(33, 139, 245, 0.3);
+}
